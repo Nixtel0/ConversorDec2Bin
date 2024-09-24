@@ -34,3 +34,11 @@ tambien se puedene hacer tablas
 |--------|-------------|--------|
 | Carlos | 2000 ventas |  2000$ |
 |sara    | 10000 ventas| 10000$ |
+
+y podemos separar las cosas por lineas horizontales como esta:
+
+---
+
+tambien de esta forma:
+
+***
