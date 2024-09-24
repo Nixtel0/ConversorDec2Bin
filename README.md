@@ -22,3 +22,5 @@ Y ahora a ver como se ponen los links. Por ejemplo, las paginas de donde he saca
 tambien se pueden poner imagenes:
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+para el emoji es un poco mas complicado porque hay que colocar el codigo del emoji enter (:) por ejemplo: :+1:
