@@ -25,5 +25,5 @@ tambien se pueden poner imagenes:
 
 para el emoji es un poco mas complicado porque hay que colocar el codigo del emoji enter (:) por ejemplo: :+1:
 
-[!note]
-hola
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
