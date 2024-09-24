@@ -26,4 +26,9 @@ tambien se pueden poner imagenes:
 para el emoji es un poco mas complicado porque hay que colocar el codigo del emoji enter (:) por ejemplo: :+1:
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Y de esta forma tan sencilla se pueden colocar diferentes alertas
+
+tambien se puedene hacer tablas
+
+| Tablas | Faciles | Epicas |
+| Carlos | 2000 ventas | 2000$ |
