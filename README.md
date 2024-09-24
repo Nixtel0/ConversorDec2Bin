@@ -1,5 +1,5 @@
-#Ejercicios de prueba para clase
-##Sesion 2
+# Ejercicios de prueba para clase
+## Sesion 2
 **Esto es una prueba de la negrita**
 _un ejemplo de texto en cursiva_
 ~~Texto tachado~~
