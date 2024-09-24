@@ -31,4 +31,5 @@ para el emoji es un poco mas complicado porque hay que colocar el codigo del emo
 tambien se puedene hacer tablas
 
 | Tablas | Faciles     | Epicas |
+|--------|-------------|--------|
 | Carlos | 2000 ventas |  2000$ |
