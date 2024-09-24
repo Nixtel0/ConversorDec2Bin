@@ -21,4 +21,4 @@ Y ahora a ver como se ponen los links. Por ejemplo, las paginas de donde he saca
 
 tambien se pueden poner imagenes:
 
-![alt text]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1200px-LEGO_logo.svg.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"))
+![alt text]((https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
