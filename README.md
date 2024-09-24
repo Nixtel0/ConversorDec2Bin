@@ -21,4 +21,4 @@ Y ahora a ver como se ponen los links. Por ejemplo, las paginas de donde he saca
 
 tambien se pueden poner imagenes:
 
-![alt text]((https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
